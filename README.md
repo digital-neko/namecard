@@ -1,1 +1,1 @@
-# namecard
+# simple namecard program
